@@ -1,6 +1,7 @@
 <template>
   <div>
-    
+    <!-- <NuxtAccordion /> -->
+    <NuxtToast/>
   </div>
 </template>
 <script setup>

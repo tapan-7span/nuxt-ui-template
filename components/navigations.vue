@@ -18,5 +18,9 @@ const all_routes = router.options.routes;
 const sortedRoutes = all_routes.sort((a, b) => a.name.localeCompare(b.name));
 
 // TODO :  If there is any kind of record
-
 </script>
+<style>
+.router-link-active {
+  @apply bg-neutral-800 border-neutral-500;
+}
+</style>
