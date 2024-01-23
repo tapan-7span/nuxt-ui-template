@@ -1,7 +1,8 @@
 <template>
   <div>
     <!-- <NuxtAccordion /> -->
-    <NuxtToast/>
+    <!-- <NuxtToast/> -->
+    <ComponentNav />
   </div>
 </template>
 <script setup>
